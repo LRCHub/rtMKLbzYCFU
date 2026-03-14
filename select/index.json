@@ -1,0 +1,72 @@
+{
+  "version": 1,
+  "base_track": "いのちの記憶",
+  "base_artist": "二階堂和美",
+  "createdAt": "2026-03-14T05:34:32.033209Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "いのちの記憶",
+      "artist": "二階堂和美",
+      "has_synced": true,
+      "path": "select/01_いのちの記憶_二階堂和美.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "いのちの記憶(かぐや姫の物語)",
+      "artist": "二階堂和美",
+      "has_synced": true,
+      "path": "select/02_いのちの記憶(かぐや姫の物語)_二階堂和美.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "いのちの記憶",
+      "artist": "二階堂和美",
+      "has_synced": false,
+      "path": "select/03_いのちの記憶_二階堂和美.txt"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "いのちの記憶 (オリジナル・カラオケ)",
+      "artist": "二階堂和美",
+      "has_synced": true,
+      "path": "select/04_いのちの記憶_(オリジナル・カラオケ)_二階堂和美.lrc"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "いのちの記憶",
+      "artist": "Kazumi Nikaido",
+      "has_synced": true,
+      "path": "select/05_いのちの記憶_Kazumi_Nikaido.lrc"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "いのちの記憶",
+      "artist": "Nikaido Kazumi",
+      "has_synced": false,
+      "path": "select/06_いのちの記憶_Nikaido_Kazumi.txt"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "いのちの記憶 (かぐや姫の物語)",
+      "artist": "二階堂和美",
+      "has_synced": true,
+      "path": "select/07_いのちの記憶_(かぐや姫の物語)_二階堂和美.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "いのちの記憶",
+      "artist": "二階堂和美",
+      "has_synced": false,
+      "path": "select/pl_01_いのちの記憶_二階堂和美.txt"
+    }
+  ]
+}
